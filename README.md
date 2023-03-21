@@ -51,7 +51,7 @@ Os assuntos vistos em aula serão listados aqui.
 
 |    N |   data | assunto
 | ---: | -----: | :--------
-|    1 |  21mar | [introdução](Assuntos/01.md)
+|    1 |  21mar | [introdução](Aulas/01.md)
 
 
 
