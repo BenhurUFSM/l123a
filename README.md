@@ -51,7 +51,8 @@ Os assuntos vistos em aula serão listados aqui.
 
 |    N |   data | assunto
 | ---: | -----: | :--------
-|    1 |  21mar | [introdução](Aulas/01.md)
+|    1 |  21mar | [introdução; um computador simplificado](Aulas/01.md)
+|    2 |  23mar | [implementação de números](Aulas/02.md)
 
 
 
