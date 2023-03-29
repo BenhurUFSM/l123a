@@ -53,7 +53,7 @@ Os assuntos vistos em aula serão listados aqui.
 | ---: | -----: | :--------
 |    1 |  21mar | [introdução; um computador simplificado](Aulas/01.md)
 |    2 |  23mar | [implementação de números](Aulas/02.md)
-|    3 |  28mar | [introdução ao C](Aulas/03.md)
+|    3 |  28mar | [primeiro programa C](Aulas/03.md)
 
 
 
