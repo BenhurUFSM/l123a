@@ -55,6 +55,7 @@ Os assuntos vistos em aula serão listados aqui.
 |    2 |  23mar | [implementação de números](Aulas/02.md)
 |    3 |  28mar | [primeiro programa C](Aulas/03.md)
 |    4 |  30mar | [primeiro programa C, cont.](Aulas/04.md)
+|    5 |   4abr | [dígitos](Aulas/05.md)
 
 
 
