@@ -57,7 +57,8 @@ Os assuntos vistos em aula serão listados aqui.
 |    4 |  30mar | [primeiro programa C, com funções](Aulas/04.md)
 |    5 |   4abr | [dígitos](Aulas/05.md)
 |    6 |   6abr | [dígitos, com if e while](Aulas/06.md)
-|    7 |  11abr | exercicios
+|    7 |  11abr | exercícios
+|    8 |  13abr | [mais exercícios](Aulas/08.md)
 
 
 
