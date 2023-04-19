@@ -59,6 +59,7 @@ Os assuntos vistos em aula serão listados aqui.
 |    6 |   6abr | [dígitos, com if e while](Aulas/06.md)
 |    7 |  11abr | exercícios
 |    8 |  13abr | [mais exercícios](Aulas/08.md)
+|    9 |  18abr | exercícios e [operadores](Aulas/09.md)
 
 
 
