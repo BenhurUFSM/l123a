@@ -61,6 +61,7 @@ Os assuntos vistos em aula serão listados aqui.
 |    8 |  13abr | [mais exercícios](Aulas/08.md)
 |    9 |  18abr | exercícios e [operadores](Aulas/09.md)
 |   10 |  20abr | [comando for](Aulas/10.md) e triângulos
+|   11 |  25abr | [exercícios, t2](Aulas/11.md)
 
 
 
@@ -69,6 +70,7 @@ Os assuntos vistos em aula serão listados aqui.
 |     N |    prazo | descrição
 | ----: | -------: | :-----------
 |    T1 |     4abr | Dígitos (ver final da aula 4)
+|    T2 |   27abr? | calculadora (ver aula 11)
 
 
 ## Ementa
