@@ -62,6 +62,8 @@ Os assuntos vistos em aula serão listados aqui.
 |    9 |  18abr | exercícios e [operadores](Aulas/09.md)
 |   10 |  20abr | [comando for](Aulas/10.md) e triângulos
 |   11 |  25abr | [exercícios, t2](Aulas/11.md)
+|   12 |  27abr | exercícios
+|   13 |   2mai | [t2](Aulas/13.md)
 
 
 
