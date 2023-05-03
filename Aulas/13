@@ -1,0 +1,59 @@
+### t2
+
+Exemplo de implementação do t2.
+```c
+#include <stdio.h>
+#include <stdbool.h>
+
+// retorna true se for operador multiplicativo
+bool op_mult(char op)
+{
+  return op == '*' || op == '/';
+}
+
+// retorna true se for operador aditivo
+bool op_adit(char op)
+{
+  return op == '+' || op == '-';
+}
+
+// retorna true se for operador válido
+bool op_valido(char op)
+{
+  return op_mult(op) || op_adit(op);
+}
+
+// aplica a operação aos dois valores; retorna o resultado
+float opera(char op, float a, float b)
+{
+  switch(op) {
+    case '+': return a+b;
+    case '-': return a-b;
+    case '*': return a*b;
+    case '/': return a/b;
+    default:  return 0;
+  }
+}
+
+int main()
+{
+  float total, num;
+  char op;
+
+  // lê o primeiro número
+  scanf("%f", &total);
+  for (;;) {
+    scanf("%c", &op);
+    if (op == '\n') {
+      break;
+    }
+    if (!op_valido(op)) {
+      printf("operador '%c' inválido\n", op);
+      break;
+    }
+    scanf("%f", &num);
+    total = opera(op, total, num);
+  }
+  printf("Resultado: %.2f\n", total);
+}
+```
