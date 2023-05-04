@@ -64,6 +64,7 @@ Os assuntos vistos em aula serão listados aqui.
 |   11 |  25abr | [exercícios, t2](Aulas/11.md)
 |   12 |  27abr | exercícios
 |   13 |   2mai | [t2](Aulas/13.md)
+|   14 |   4mai | [passagem de argumentos por referência, vetores](Aulas/14.md)
 
 
 
