@@ -66,6 +66,7 @@ Os assuntos vistos em aula serão listados aqui.
 |   13 |   2mai | [t2](Aulas/13.md)
 |   14 |   4mai | [passagem de argumentos por referência, vetores](Aulas/14.md)
 |   15 |   9mai | [exercicios, t3](Aulas/15.md)
+|   16 |  11mai | exercícios, definição de data e atualização da descrição do t3
 
 
 
@@ -75,7 +76,7 @@ Os assuntos vistos em aula serão listados aqui.
 | ----: | -------: | :-----------
 |    T1 |     4abr | Dígitos (ver final da aula 4)
 |    T2 |    27abr | calculadora (ver aula 11)
-|    T3 |          | cores (a15)
+|    T3 |    23mai | cores (a15)
 
 ## Ementa
 
