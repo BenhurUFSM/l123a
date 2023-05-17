@@ -67,6 +67,7 @@ Os assuntos vistos em aula serão listados aqui.
 |   14 |   4mai | [passagem de argumentos por referência, vetores](Aulas/14.md)
 |   15 |   9mai | [exercicios, t3](Aulas/15.md)
 |   16 |  11mai | exercícios, definição de data e atualização da descrição do t3
+|   17 |  16mai | [strings](Aulas/17.md)
 
 
 
