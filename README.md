@@ -68,7 +68,7 @@ Os assuntos vistos em aula serão listados aqui.
 |   15 |   9mai | [exercicios, t3](Aulas/15.md)
 |   16 |  11mai | exercícios, definição de data e atualização da descrição do t3
 |   17 |  16mai | [strings](Aulas/17.md)
-
+|   18 |  18mai | exercícios com strings
 
 
 ## Exercícios, trabalhos, provas
