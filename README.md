@@ -70,6 +70,7 @@ Os assuntos vistos em aula serão listados aqui.
 |   17 |  16mai | [strings](Aulas/17.md)
 |   18 |  18mai | exercícios com strings
 |   19 |  23mai | [arquivos](Aulas/19.md)
+|   20 |  25mai | [registros](Aulas/20.md)
 
 
 ## Exercícios, trabalhos, provas
