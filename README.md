@@ -80,7 +80,8 @@ Os assuntos vistos em aula serão listados aqui.
 |    T1 |     4abr | Dígitos (ver final da aula 4)
 |    T2 |    27abr | calculadora (ver aula 11)
 |    T3 |    23mai | cores (a15)
-|    T4 |     1jun | [cores II](Trabalhos/t4)
+|  ~T4~ |   ~1jun~ | ~[cores II](Trabalhos/t4)~
+|   T4b |     8jun | [cores III](Trabalhos/t4b)
 
 ## Ementa
 
