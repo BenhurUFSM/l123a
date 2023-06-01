@@ -93,7 +93,7 @@ void tela_limpa(void)
 
 void tela_posiciona(posicao pos)
 {
-  printf("\e[%d;%dH", pos.lin, pos.ncol);
+  printf("\e[%d;%dH", pos.linha, pos.coluna);
 }
 
 static int nlin, ncol; 
