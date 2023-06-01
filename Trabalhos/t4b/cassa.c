@@ -34,7 +34,7 @@ void desenha_tela(posicao pj, posicao pi, double tempo, int dist)
   tela_posiciona(pj);
   putchar('@');
   tela_cor_normal();
-  tela_lincol(pi);
+  tela_posiciona(pi);
   putchar('#');
 }
 
