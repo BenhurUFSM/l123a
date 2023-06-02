@@ -71,6 +71,8 @@ Os assuntos vistos em aula serão listados aqui.
 |   18 |  18mai | exercícios com strings
 |   19 |  23mai | [arquivos](Aulas/19.md)
 |   20 |  25mai | [registros](Aulas/20.md)
+|   21 |  30mai | exercícios, troca do t4 para t4b
+|   22 |   1jun | exercícios, adição de programa exemplo no t4b
 
 
 ## Exercícios, trabalhos, provas
