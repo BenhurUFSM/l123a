@@ -73,6 +73,7 @@ Os assuntos vistos em aula serão listados aqui.
 |   20 |  25mai | [registros](Aulas/20.md)
 |   21 |  30mai | exercícios, troca do t4 para t4b
 |   22 |   1jun | exercícios, adição de programa exemplo no t4b
+|   23 |   6jun | [alocação dinâmica de memória](Aulas/23.md)
 
 
 ## Exercícios, trabalhos, provas
