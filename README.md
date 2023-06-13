@@ -85,6 +85,7 @@ Os assuntos vistos em aula serão listados aqui.
 |    T3 |    23mai | cores (a15)
 |  ~T4~ |   ~1jun~ | ~[cores II](Trabalhos/t4)~ cancelado
 |   T4b |     8jun | [cores III](Trabalhos/t4b)
+|   T5  |     8jul | [efe](Trabalhos/t5)
 
 ## Ementa
 
