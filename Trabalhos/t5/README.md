@@ -40,6 +40,6 @@ Caso o arquivo não exista, o programa deve considerar que ninguém pontuou aind
 O desenho do tabuleiro deve ser colorido, com uma combinação de cor diferente para cada conteúdo possível em uma posição (vazia, 'A' a 'F').
 Deve ser mostrado na tela, além do tabuleiro, pelo menos a pontuação atual.
 
-Deve ser implementado usando um dos tela.h + tela.c (textual ou gráfico), que não devem ser alterados.
+Deve ser implementado usando um dos tela.h + tela.c (textual, do t4 ou [gráfico](tela)), que não devem ser alterados.
 
 O jogo é baseado no [243](https://hgentry.github.io/81/).
