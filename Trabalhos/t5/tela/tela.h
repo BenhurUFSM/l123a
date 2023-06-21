@@ -113,9 +113,25 @@ float tela_rato_x_clique(void);
 float tela_rato_y_clique(void);
 
 // retorna uma tecla digitada
-// pode retornar um caractere imprimível ou '\b' para backspace ou '\n' para
-// enter ou '\0' para qualquer outra coisa ou se não tiver sido digitado nada.
-char tela_tecla(void);
+// pode retornar um caractere imprimível ou um dos valores abaixo
+// para caracteres especiais.
+int tela_tecla(void);
+
+// caracteres especiais retornados por tela_tecla
+enum {
+  c_none = -1000,  // não tem caractere na entrada
+  c_enter,
+  c_back,
+  c_del,
+  c_pgup,
+  c_pgdn,
+  c_home,
+  c_end,
+  c_left,
+  c_right,
+  c_up,
+  c_down,
+};
 
 // TEMPO
 
