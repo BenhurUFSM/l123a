@@ -222,22 +222,32 @@ float tela_rato_y_clique(void)
   return y_clicado;
 }
 
-char tela_tecla(void)
+int tela_tecla(void)
 {
   ALLEGRO_EVENT ev;
 
   while (al_get_next_event(tela_eventos_teclado, &ev)) {
     if (ev.type == ALLEGRO_EVENT_KEY_CHAR) {
-      int c = ev.keyboard.unichar;
-      if (c == '\r') c = '\n'; // corrige windowscentrismo
-      // só retorna caracteres imprimíveis, backspace e enter
-      if ((c >= ' ' && c <= '~') || c == '\b' || c == '\n') {
-        return (char) c;
+      int k = ev.keyboard.keycode;
+      switch (k) {
+        case ALLEGRO_KEY_ENTER:     return c_enter;
+        case ALLEGRO_KEY_BACKSPACE: return c_back;
+        case ALLEGRO_KEY_DELETE:    return c_del;
+        case ALLEGRO_KEY_PGUP:      return c_pgup;
+        case ALLEGRO_KEY_PGDN:      return c_pgdn;
+        case ALLEGRO_KEY_HOME:      return c_home;
+        case ALLEGRO_KEY_END:       return c_end;
+        case ALLEGRO_KEY_LEFT:      return c_left;
+        case ALLEGRO_KEY_RIGHT:     return c_right;
+        case ALLEGRO_KEY_UP:        return c_up;
+        case ALLEGRO_KEY_DOWN:      return c_down;
       }
+      int c = ev.keyboard.unichar;
+      return c;
     }
   }
   // nada foi pressionado (ou foi pressionado algo não imprimível)
-  return '\0';
+  return c_none;
 }
 
 double relogio(void)
