@@ -230,8 +230,8 @@ void partida(void)
 bool quer_jogar_de_novo(void)
 {
   double inicio = relogio();
-  char tecla = 0;
-  while (tecla == 0) {
+  int tecla = c_none;
+  while (tecla == c_none) {
     tecla = tela_tecla();
     double t = 10 - (relogio() - inicio); // quanto tempo ainda tem para decidir
     if (t <= 0) break;  // acabou o prazo de 10s
