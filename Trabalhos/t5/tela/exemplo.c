@@ -44,7 +44,7 @@ int main(void)
     tela_atualiza();
 
     // sai do laço quando algo for digitado no teclado
-    if (tela_tecla() != '\0') {
+    if (tela_tecla() != c_none) {
       break;
     }
   }
