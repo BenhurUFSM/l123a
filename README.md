@@ -74,6 +74,10 @@ Os assuntos vistos em aula serão listados aqui.
 |   21 |  30mai | exercícios, troca do t4 para t4b
 |   22 |   1jun | exercícios, adição de programa exemplo no t4b
 |   23 |   6jun | [alocação dinâmica de memória](Aulas/23.md)
+|   24 |   8jun | t5
+|   25 |  13jun | t5
+|   26 |  15jun | t5
+|   27 |  20jun | t5
 
 
 ## Exercícios, trabalhos, provas
@@ -85,7 +89,7 @@ Os assuntos vistos em aula serão listados aqui.
 |    T3 |    23mai | cores (a15)
 |  ~T4~ |   ~1jun~ | ~[cores II](Trabalhos/t4)~ cancelado
 |   T4b |     8jun | [cores III](Trabalhos/t4b)
-|   T5  |     8jul | [efe](Trabalhos/t5)
+|   T5  |     8jul | [efe](Trabalhos/t5)<br>21jun - código atualizado para processar teclas especiais
 
 ## Ementa
 
