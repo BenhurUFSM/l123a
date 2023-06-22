@@ -131,6 +131,7 @@ enum {
   c_right,
   c_up,
   c_down,
+  c_esc,
 };
 
 // TEMPO
