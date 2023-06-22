@@ -31,6 +31,8 @@ Por exemplo, considerando movimento de uma linha para a direita ou esquerda:
 | AAABB | --BBB | C---- |
 | BBAAA | ----C | BBB-- |
 
+Esses são os movimentos feitos pelo jogo 243. No nosso caso, os 2 últimos movimentos podem realizar as 2 combinações nas 2 direções, resultando em "C".
+
 Cada letra que se mexe vale um ponto.
 Cada combinação vale a soma das 3 letras combinadas (cada 'A' vale 10, combinam num 'B' vale 30; combinando 3 'B' em um 'C' vale 90 etc).
 
@@ -43,3 +45,9 @@ Deve ser mostrado na tela, além do tabuleiro, pelo menos a pontuação atual.
 Deve ser implementado usando um dos tela.h + tela.c (textual, do t4 ou [gráfico](tela)), que não devem ser alterados.
 
 O jogo é baseado no [243](https://hgentry.github.io/81/).
+
+#### Dica
+
+Os movimentos de uma linha ou coluna são independentes das demais, e são os mesmos em qualquer direção. 
+É mais fácil implementar uma função para fazer o movimento em uma linha, para uma das direções, e usar essa função várias vezes em um movimento, copiando cada linha ou coluna, de frente pra trás ou de trás pra frente para um vetor auxiliar, chamando a função de movimentação, e copiando o resultado de volta para a matriz.
+
