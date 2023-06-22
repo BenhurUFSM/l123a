@@ -241,6 +241,7 @@ int tela_tecla(void)
         case ALLEGRO_KEY_RIGHT:     return c_right;
         case ALLEGRO_KEY_UP:        return c_up;
         case ALLEGRO_KEY_DOWN:      return c_down;
+        case ALLEGRO_KEY_ESCAPE:    return c_esc;
       }
       int c = ev.keyboard.unichar;
       return c;
