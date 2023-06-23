@@ -46,8 +46,15 @@ Deve ser implementado usando um dos tela.h + tela.c (textual, do t4 ou [gráfico
 
 O jogo é baseado no [243](https://hgentry.github.io/81/).
 
-#### Dica
+#### Dicas
 
 Os movimentos de uma linha ou coluna são independentes das demais, e são os mesmos em qualquer direção. 
 É mais fácil implementar uma função para fazer o movimento em uma linha, para uma das direções, e usar essa função várias vezes em um movimento, copiando cada linha ou coluna, de frente pra trás ou de trás pra frente para um vetor auxiliar, chamando a função de movimentação, e copiando o resultado de volta para a matriz.
 
+
+Não misture desenho com alteração de estado.
+Melhor: não misture entrada, saída, alteração de estado.
+
+Cada função deve ter um objetivo bem definido, e um nome que corresponde à esse objetivo.
+
+Uma função deve fazer uma coisa, possivelmente de forma parametrizada. Quando se precisar que essa coisa seja feita, deve-se chamar essa função.
