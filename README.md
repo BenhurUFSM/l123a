@@ -98,7 +98,10 @@ Os assuntos vistos em aula serão listados aqui.
 Crie um diretório (*folder*), chamado "l1-nome" ("nome" é uma string que permita te identificar na chamada).
 Coloque nesse diretório:
 - versão final dos últimos dois trabalhos implementados (programas fonte)
-- texto com a nota de auto-avaliação (0 a 10), com justificativa
+- texto com a nota de auto-avaliação (0 a 10), com justificativa.
+
+Pode também conter avaliação sobre como a disciplina foi conduzida pelo professor, sugestões, e o que mais o aluno considerar pertinente.
+
 Você pode criar sub-diretórios se achar conveniente.
 Comprima esse diretório, criando um arquivo zip ou tgz ou 7z ou rar, que quando descomprimido recria o diretório e seu conteúdo.
 
