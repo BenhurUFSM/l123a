@@ -90,6 +90,47 @@ Os assuntos vistos em aula serão listados aqui.
 |  ~T4~ |   ~1jun~ | ~[cores II](Trabalhos/t4)~ cancelado
 |   T4b |     8jun | [cores III](Trabalhos/t4b)
 |   T5  |     8jul | [efe](Trabalhos/t5)<br>21jun - código atualizado para processar teclas especiais
+| final |    10jul |
+| Exame |    20jul |
+
+## Entrega final
+
+Crie um diretório (*folder*), chamado "l1-nome" ("nome" é uma string que permita te identificar na chamada).
+Coloque nesse diretório:
+- versão final dos últimos dois trabalhos implementados (programas fonte)
+- texto com a nota de auto-avaliação (0 a 10), com justificativa
+Você pode criar sub-diretórios se achar conveniente.
+Comprima esse diretório, criando um arquivo zip ou tgz ou 7z ou rar, que quando descomprimido recria o diretório e seu conteúdo.
+
+Envie um mail, antes do meio dia de 10 de julho, para benhur+l1@inf.ufsm.br, com esse arquivo anexado.
+Caso tenha preferência para conversar no dia 11 ou 13, ou alguma outra restrição, coloca no mail.
+No dia 11 de manhã eu envio uma mensagem com o horário de conversa de cada um.
+A conversa é obrigatória.
+
+A nota deve medir duas coisas, mais ou menos com mesmo peso: 
+- os trabalhos (todos os 5, peso +- 1,1,1,2,4)
+  - foi feito o que foi pedido?
+  - funciona?
+  - serviu para aprender os conceitos relacionados?
+- a aprendizagem do conteúdo da disciplina (coloquei 10 conceitos abaixo, dá pra pensar neles +- com o mesmo peso).
+Para cada conceito, reflita:
+  - sabe o que é?
+  - sabe pra que serve?
+  - sabe como usar?
+
+Os principais conceitos da disciplina são:
+- tipos básicos de dados (char, int, bool, float, etc)
+- variáveis
+- entrada e saída no terminal (scanf, printf)
+- seleção (if, switch)
+- laços (for, while, do-while)
+- funções (modularização, passagem de parâmetros por valor e referência)
+- vetores e strings
+- registros
+- arquivos
+- alocação dinâmica de memória
+
+
 
 ## Ementa
 
