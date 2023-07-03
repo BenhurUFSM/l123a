@@ -61,11 +61,11 @@ Uma função deve fazer uma coisa, possivelmente de forma parametrizada. Quando 
 O movimento de uma linha é mais fácil de fazer separando em 2 partes, movimentação e junção:
 1. A movimentação pode ser feita, por exemplo, achando cada espaço da linha e movendo a próxima letra da 
    linha para ele, até que não tenha letra para mover ou que não tenha mais espaço.
-   Por exemplo, se a linha for "A.AA." (botei '.' no lugar de espaço pra ficar mais visível):
-   - o 1o caractere não é espaço, deixa ele
-   - o 2o caractere é espaço, move a 1a letra à direita para ele: "AA.A."
-   - o 3o caractere é espaço, move a 1a letra à direita para ele: "AAA.."
-   - o 4o caractere é espaço, não tem letra à direita dele: termina
+   Por exemplo, se a linha for "A..BA" (botei '.' no lugar de espaço pra ficar mais visível):
+   - o 1º caractere não é espaço, deixa ele
+   - o 2º caractere é espaço, move a 1ª letra à direita para ele: "AB..A"
+   - o 3º caractere é espaço, move a 1ª letra à direita para ele: "ABA.."
+   - o 4º caractere é espaço, não tem letra à direita dele: termina
 3. a junção é procurar 3 caracteres consecutivos que tenham a mesma letra, e substituir o primeiro deles pela letra seguinte e os demais por espaço.
 
 Fazendo movimentação, junção, movimentação, junção em uma linha qualquer vai produzir a linha resultado. 
