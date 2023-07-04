@@ -78,6 +78,10 @@ Os assuntos vistos em aula serão listados aqui.
 |   25 |  13jun | t5
 |   26 |  15jun | t5
 |   27 |  20jun | t5
+|   28 |  22jun | t5
+|   29 |  27jun | t5
+|   30 |  29jun | t5
+|   31 |   4jul | t5
 
 
 ## Exercícios, trabalhos, provas
@@ -91,7 +95,7 @@ Os assuntos vistos em aula serão listados aqui.
 |   T4b |     8jun | [cores III](Trabalhos/t4b)
 |   T5  |     8jul | [efe](Trabalhos/t5)<br>21jun - código atualizado para processar teclas especiais
 | final |    10jul |
-| Exame |    20jul |
+| Exame |    20jul, <12h |
 
 ## Entrega final
 
